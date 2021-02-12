@@ -5,4 +5,4 @@ To *contact me*, please:
 - Wait for me to respond.
 
 ### If i don't respond
-If you do not get a response from me, until the next week, please make another discussion.
+If you **do not** get a response from me until the next week, please make another discussion.
